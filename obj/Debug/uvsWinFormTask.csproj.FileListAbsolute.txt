@@ -1,0 +1,11 @@
+C:\Users\Henrikas\source\repos\uvsWinFormTask\bin\Debug\uvsWinFormTask.exe.config
+C:\Users\Henrikas\source\repos\uvsWinFormTask\bin\Debug\uvsWinFormTask.exe
+C:\Users\Henrikas\source\repos\uvsWinFormTask\bin\Debug\uvsWinFormTask.pdb
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.csprojAssemblyReference.cache
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.Main.resources
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.Properties.Resources.resources
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.csproj.GenerateResource.cache
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.csproj.CoreCompileInputs.cache
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.exe
+C:\Users\Henrikas\source\repos\uvsWinFormTask\obj\Debug\uvsWinFormTask.pdb
+C:\Users\Henrikas\source\repos\uvsWinFormTask\bin\Debug\DB\Threads.mdb
